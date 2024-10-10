@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://27man-my.sharepoint.com/:u:/r/personal/qn____27man_onmicrosoft_com/Documents/Decrypted%20IPAs/YouTube/YouTube_19.34.2_decrypted.ipa?csf=1&web=1&e=9nTyHD"
         required: true
         type: string
       bundle_id:
